@@ -1,5 +1,7 @@
 # 👋 Welcome to 張小凡's GitHub Profile!
 
+![](https://komarev.com/ghpvc/?username=whyb&color=green&style=flat-square&label=ProfileViews)
+
 Hey there! Thanks for stopping by my little corner of the internet. I'm **張小凡(whyb)**, and I'm thrilled to have you here. 🎉
 
 ## About Me
