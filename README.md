@@ -30,7 +30,7 @@ C++ OpenCV OpenVINO Onnxruntime DirectML TensorRT ffmpeg OpenGL Vulkan Qt
 
 ---
 
-![whyb's GitHub stats](https://github-readme-stats-gules-omega.vercel.app/api?username=whyb&show_icons=true&theme=jolly&count_private=true&show_icons=true&locale=cn)
+![whyb's GitHub stats](https://github-readme-stats-gules-omega.vercel.app/api?username=whyb&show_icons=true&theme=jolly&count_private=true&include_all_commits=true&show_icons=true&locale=cn)
 ![whyb's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyb&layout=compact&hide_border=true&langs_count=10&theme=jolly&locale=cn)
 
 
