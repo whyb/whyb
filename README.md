@@ -21,7 +21,7 @@ I'm proud to be a part of some amazing open-source projects, including:
 - **Tencent's ncnn**: [ncnn](https://github.com/Tencent/ncnn/) is a high-performance neural network inference framework. Pure C++ implementation, cross-platform(Windows, MacOS, Linux, Android, iOS), and supports cpu(loongarch, arm, risc-v, mips, x86), supports GPU(Nvidia, AMD, Intel, Qualcomm, Apple, Hisilicon, Rockchip npu, Axera, etc..)
 - **scarsty's mlcc**: [mlcc](https://github.com/scarsty/mlcc) is a common tool library implemented in C++, including lexical interpreter, common command parsing, file, string processing, etc..
 - **nihui's ruapu**: [ruapu](https://github.com/nihui/ruapu/) it is using various extended instructions to harass and amuse the CPU to inferred whether the CPU supports a certain extended instruction set.
-
+- **FastChwHwcConverter**: [FastChwHwcConverter](https://github.com/whyb/FastChwHwcConverter/) is a high-performance, CPU multi-threaded, GPU acceleration, header-only C++ library for converting image data formats between HWC (Height, Width, Channels) and CHW (Channels, Height, Width).
 ### Tech Stack
 
 - 💻 **Languages**: Modern C++ – my trusty sidekicks.
