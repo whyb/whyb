@@ -10,18 +10,22 @@ I'm currently working into the fascinating world of **visual image processing** 
 
 ### What I'm Up To
 
-- 🔭 Employed at a company developing industry-leading audio and video editing tools.
-- 🚀 Deploying AI models to make the world a smarter place.
-- 📚 Self-studying AI LLM quantization – because who doesn't love a good challenge?
+- 🔭 Working at a company building cutting-edge tools for audio processing and video editing.
+- 👁️‍🗨️ Exploring computer vision applications—from image understanding to intelligent visual effects.
+- 🧠 Diving into frontier AI technologies, with a focus on real-world impact and multimodal intelligence.
 
 ### Open Source Contributions
 
 I'm proud to be a part of some amazing open-source projects, including:
+#### Self-directed
+- **[FastChwHwcConverter](https://github.com/whyb/FastChwHwcConverter/)**  is a high-performance, CPU multi-threaded(OpenMP/OneTBB), GPU acceleration(ROCm/CUDA), header-only C++ library for converting image data formats between HWC (Height, Width, Channels) and CHW (Channels, Height, Width).
+- **[Gomoku-AI](https://github.com/whyb/Gomoku-AI/)**  is implemented with PyTorch, designed with reference to AlphaZero. It takes Player 1 as the main training target, while Player 2 serves as a sparring model to help Player 1 improve. Leveraging deep learning, it simulates players' move strategies through the training mechanism of a neural network model (based on the deep structure of ResNet and reinforcement learning).
+- **[HwCodecDetect](https://github.com/whyb/HwCodecDetect/)**  is a lightweight command-line tool that reports on your device's available hardware-accelerated video codecs.
+#### Contributed to others
+- **Tencent's [ncnn](https://github.com/Tencent/ncnn/)**  is a high-performance neural network inference framework. Pure C++ implementation, cross-platform(Windows, MacOS, Linux, Android, iOS), and supports cpu(loongarch, arm, risc-v, mips, x86), supports GPU(Nvidia, AMD, Intel, Qualcomm, Apple, Hisilicon, Rockchip npu, Axera, etc..)
+- **scarsty's [mlcc](https://github.com/scarsty/mlcc)**  is a common tool library implemented in C++, including lexical interpreter, common command parsing, file, string processing, etc..
+- **nihui's [ruapu](https://github.com/nihui/ruapu/)**  is using various extended instructions to harass and amuse the CPU to inferred whether the CPU supports a certain extended instruction set.
 
-- **Tencent's ncnn**: [ncnn](https://github.com/Tencent/ncnn/) is a high-performance neural network inference framework. Pure C++ implementation, cross-platform(Windows, MacOS, Linux, Android, iOS), and supports cpu(loongarch, arm, risc-v, mips, x86), supports GPU(Nvidia, AMD, Intel, Qualcomm, Apple, Hisilicon, Rockchip npu, Axera, etc..)
-- **scarsty's mlcc**: [mlcc](https://github.com/scarsty/mlcc) is a common tool library implemented in C++, including lexical interpreter, common command parsing, file, string processing, etc..
-- **nihui's ruapu**: [ruapu](https://github.com/nihui/ruapu/) it is using various extended instructions to harass and amuse the CPU to inferred whether the CPU supports a certain extended instruction set.
-- **FastChwHwcConverter**: [FastChwHwcConverter](https://github.com/whyb/FastChwHwcConverter/) is a high-performance, CPU multi-threaded, GPU acceleration, header-only C++ library for converting image data formats between HWC (Height, Width, Channels) and CHW (Channels, Height, Width).
 ### Tech Stack
 
 - 💻 **Languages**: Modern C++ – my trusty sidekicks.
