@@ -23,7 +23,7 @@ I'm proud to be a part of some amazing open-source projects, including:
 - **[HwCodecDetect](https://github.com/whyb/HwCodecDetect/)**  is a lightweight command-line tool that reports on your device's available hardware-accelerated video codecs.
 #### Contributed to others
 - **Tencent's [ncnn](https://github.com/Tencent/ncnn/)**  is a high-performance neural network inference framework. Pure C++ implementation, cross-platform(Windows, MacOS, Linux, Android, iOS), and supports cpu(loongarch, arm, risc-v, mips, x86), supports GPU(Nvidia, AMD, Intel, Qualcomm, Apple, Hisilicon, Rockchip npu, Axera, etc..)
-- **scarsty's [mlcc](https://github.com/scarsty/mlcc)**  is a common tool library implemented in C++, including lexical interpreter, common command parsing, file, string processing, etc..
+- **inisis's [OnnxSlim](https://github.com/inisis/OnnxSlim)**  is a lightweight Python toolkit designed to optimize ONNX models.
 - **nihui's [ruapu](https://github.com/nihui/ruapu/)**  is using various extended instructions to harass and amuse the CPU to inferred whether the CPU supports a certain extended instruction set.
 
 ### Tech Stack
