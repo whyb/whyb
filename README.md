@@ -27,6 +27,7 @@ I'm proud to be a part of some amazing open-source projects, including:
 - **[FastChwHwcConverter](https://github.com/whyb/FastChwHwcConverter/)**  is a high-performance, CPU multi-threaded(OpenMP/OneTBB), GPU acceleration(ROCm/CUDA), header-only C++ library for converting image data formats between HWC (Height, Width, Channels) and CHW (Channels, Height, Width).
 #### Contributed to others
 - **Tencent's [ncnn](https://github.com/Tencent/ncnn/)**  is a high-performance neural network inference framework. Pure C++ implementation, cross-platform(Windows, MacOS, Linux, Android, iOS), and supports cpu(loongarch, arm, risc-v, mips, x86), supports GPU(Nvidia, AMD, Intel, Qualcomm, Apple, Hisilicon, Rockchip npu, Axera, etc..)
+- **scarsty's [cifa](https://github.com/scarsty/cifa/)**  is a high-performance, lightweight, cross-platform scripting interpreter with C-style syntax, written entirely in C++.
 - **inisis's [OnnxSlim](https://github.com/inisis/OnnxSlim)**  is a lightweight Python toolkit designed to optimize ONNX models.
 - **nihui's [ruapu](https://github.com/nihui/ruapu/)**  is using various extended instructions to harass and amuse the CPU to inferred whether the CPU supports a certain extended instruction set.
 
